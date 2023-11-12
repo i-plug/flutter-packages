@@ -1,3 +1,6 @@
+## 4.4.3
+* Adds support to show JavaScript dialog. See `WebViewController.setOnJavaScriptAlertDialog`, `WebViewController.setOnJavaScriptConfirmDialog` and `WebViewController.setOnJavaScriptTextInputDialog`.
+
 ## 4.4.2
 
 * Fixes `use_build_context_synchronously` lint violations in the example app.
